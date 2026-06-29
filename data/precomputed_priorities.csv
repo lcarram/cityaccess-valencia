@@ -1,0 +1,241 @@
+neighbourhood,population,planning_priority,priority_reason,short_recommendation,service_type,objective
+benicalap,44570.0,72.4,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Reach the largest population
+rafalell vistabella,7152.0,63.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reach the largest population
+malilla,26253.0,58.2,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Reach the largest population
+patraix,24636.0,55.5,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Reach the largest population
+mahuella tauladella,7152.0,55.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reach the largest population
+torrefiel,27938.0,54.6,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Reach the largest population
+arrancapins,23611.0,54.3,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Reach the largest population
+russafa,25514.0,54.2,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Reach the largest population
+benimaclet,23390.0,53.8,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Reach the largest population
+sant pau,19098.0,53.5,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,healthcare,Reach the largest population
+rafalell vistabella,7152.0,85.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reduce average distance
+mahuella tauladella,7152.0,67.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reduce average distance
+el saler,2030.0,54.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reduce average distance
+les cases de barcena,395.0,50.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reduce average distance
+faitanar,2190.0,47.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reduce average distance
+benicalap,44570.0,47.6,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Reduce average distance
+sant pau,19098.0,47.1,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,healthcare,Reduce average distance
+la carrasca,3321.0,47.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reduce average distance
+pinedo,2724.0,46.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reduce average distance
+el palmar,759.0,45.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Reduce average distance
+rafalell vistabella,7152.0,87.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Prioritise underserved neighbourhoods
+mahuella tauladella,7152.0,77.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Prioritise underserved neighbourhoods
+les cases de barcena,395.0,66.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Prioritise underserved neighbourhoods
+faitanar,2190.0,64.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Prioritise underserved neighbourhoods
+la carrasca,3321.0,64.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Prioritise underserved neighbourhoods
+sant pau,19098.0,62.3,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,healthcare,Prioritise underserved neighbourhoods
+benicalap,44570.0,61.5,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Prioritise underserved neighbourhoods
+malilla,26253.0,61.4,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Prioritise underserved neighbourhoods
+ciutat fallera,6397.0,61.3,low coverage relative to population,Compare this area with adjacent underserved neighbourhoods.,healthcare,Prioritise underserved neighbourhoods
+cami de vera,5326.0,61.1,low coverage relative to population,Compare this area with adjacent underserved neighbourhoods.,healthcare,Prioritise underserved neighbourhoods
+rafalell vistabella,7152.0,78.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Balanced impact
+mahuella tauladella,7152.0,68.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Balanced impact
+benicalap,44570.0,63.4,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Balanced impact
+malilla,26253.0,58.1,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Balanced impact
+sant pau,19098.0,57.1,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,healthcare,Balanced impact
+les cases de barcena,395.0,56.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Balanced impact
+patraix,24636.0,55.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Balanced impact
+arrancapins,23611.0,54.8,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,healthcare,Balanced impact
+faitanar,2190.0,54.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Balanced impact
+la carrasca,3321.0,54.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,healthcare,Balanced impact
+benicalap,44570.0,70.8,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Reach the largest population
+rafalell vistabella,7152.0,63.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reach the largest population
+malilla,26253.0,60.1,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Reach the largest population
+mahuella tauladella,7152.0,55.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reach the largest population
+nou moles,27844.0,53.0,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Reach the largest population
+sant pau,19098.0,52.9,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Reach the largest population
+torrefiel,27938.0,52.6,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Reach the largest population
+el grau,10096.0,48.2,access is weaker than other neighbourhoods,Compare this area with adjacent underserved neighbourhoods.,education,Reach the largest population
+benimamet,14309.0,47.0,access is weaker than other neighbourhoods,Compare this area with adjacent underserved neighbourhoods.,education,Reach the largest population
+el perellonet,1596.0,45.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reach the largest population
+rafalell vistabella,7152.0,85.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reduce average distance
+mahuella tauladella,7152.0,67.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reduce average distance
+el saler,2030.0,58.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reduce average distance
+el palmar,759.0,57.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reduce average distance
+el perellonet,1596.0,56.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reduce average distance
+les cases de barcena,395.0,51.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reduce average distance
+malilla,26253.0,49.0,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Reduce average distance
+faitanar,2190.0,48.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reduce average distance
+pinedo,2724.0,48.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Reduce average distance
+el grau,10096.0,48.2,access is weaker than other neighbourhoods,Compare this area with adjacent underserved neighbourhoods.,education,Reduce average distance
+rafalell vistabella,7152.0,87.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Prioritise underserved neighbourhoods
+mahuella tauladella,7152.0,76.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Prioritise underserved neighbourhoods
+el perellonet,1596.0,69.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Prioritise underserved neighbourhoods
+les cases de barcena,395.0,66.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Prioritise underserved neighbourhoods
+el saler,2030.0,66.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Prioritise underserved neighbourhoods
+faitanar,2190.0,65.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Prioritise underserved neighbourhoods
+el grau,10096.0,64.6,access is weaker than other neighbourhoods,Compare this area with adjacent underserved neighbourhoods.,education,Prioritise underserved neighbourhoods
+el palmar,759.0,64.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Prioritise underserved neighbourhoods
+malilla,26253.0,64.1,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Prioritise underserved neighbourhoods
+pinedo,2724.0,62.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Prioritise underserved neighbourhoods
+rafalell vistabella,7152.0,78.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Balanced impact
+mahuella tauladella,7152.0,68.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Balanced impact
+benicalap,44570.0,61.4,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Balanced impact
+malilla,26253.0,60.7,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Balanced impact
+el perellonet,1596.0,59.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Balanced impact
+el saler,2030.0,57.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Balanced impact
+el grau,10096.0,56.7,access is weaker than other neighbourhoods,Compare this area with adjacent underserved neighbourhoods.,education,Balanced impact
+sant pau,19098.0,56.3,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,education,Balanced impact
+les cases de barcena,395.0,56.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Balanced impact
+el palmar,759.0,55.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,education,Balanced impact
+benicalap,44570.0,71.1,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,libraries,Reach the largest population
+aiora,25130.0,63.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reach the largest population
+benimaclet,23390.0,61.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reach the largest population
+sant pau,19098.0,58.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reach the largest population
+el perellonet,1596.0,57.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reach the largest population
+nou moles,27844.0,57.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,libraries,Reach the largest population
+torrefiel,27938.0,57.5,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,libraries,Reach the largest population
+benimamet,14309.0,54.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reach the largest population
+rafalell vistabella,7152.0,54.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reach the largest population
+la creu del grau,15329.0,53.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reach the largest population
+el perellonet,1596.0,83.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+el palmar,759.0,70.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+el saler,2030.0,68.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+rafalell vistabella,7152.0,65.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+mahuella tauladella,7152.0,58.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+massarrojos,2705.0,55.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+pinedo,2724.0,54.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+benimamet,14309.0,53.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+aiora,25130.0,52.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+benimaclet,23390.0,52.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Reduce average distance
+el perellonet,1596.0,85.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+el palmar,759.0,77.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+el saler,2030.0,76.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+rafalell vistabella,7152.0,75.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+mahuella tauladella,7152.0,71.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+aiora,25130.0,70.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+benimaclet,23390.0,70.1,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+benimamet,14309.0,69.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+sant pau,19098.0,69.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+massarrojos,2705.0,69.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Prioritise underserved neighbourhoods
+el perellonet,1596.0,75.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Balanced impact
+el palmar,759.0,67.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Balanced impact
+el saler,2030.0,67.1,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Balanced impact
+rafalell vistabella,7152.0,67.1,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Balanced impact
+aiora,25130.0,65.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Balanced impact
+benimaclet,23390.0,64.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Balanced impact
+sant pau,19098.0,63.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Balanced impact
+mahuella tauladella,7152.0,62.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Balanced impact
+benimamet,14309.0,62.1,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,libraries,Balanced impact
+benicalap,44570.0,61.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,libraries,Balanced impact
+benicalap,44570.0,72.6,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Reach the largest population
+arrancapins,23611.0,61.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reach the largest population
+russafa,25514.0,61.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Reach the largest population
+el perellonet,1596.0,57.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reach the largest population
+patraix,24636.0,57.0,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Reach the largest population
+malilla,26253.0,55.6,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Reach the largest population
+rafalell vistabella,7152.0,54.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reach the largest population
+la raiosa,16229.0,52.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Reach the largest population
+torrefiel,27938.0,51.9,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Reach the largest population
+mestalla,14856.0,51.1,low coverage relative to population,Compare this area with adjacent underserved neighbourhoods.,sports facilities,Reach the largest population
+el perellonet,1596.0,83.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reduce average distance
+el palmar,759.0,68.1,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reduce average distance
+el saler,2030.0,66.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reduce average distance
+rafalell vistabella,7152.0,65.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reduce average distance
+mahuella tauladella,7152.0,56.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reduce average distance
+arrancapins,23611.0,52.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reduce average distance
+russafa,25514.0,50.3,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Reduce average distance
+pinedo,2724.0,49.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reduce average distance
+el grau,10096.0,48.1,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Reduce average distance
+benicalap,44570.0,47.6,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Reduce average distance
+el perellonet,1596.0,85.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Prioritise underserved neighbourhoods
+el palmar,759.0,76.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Prioritise underserved neighbourhoods
+rafalell vistabella,7152.0,75.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Prioritise underserved neighbourhoods
+el saler,2030.0,75.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Prioritise underserved neighbourhoods
+mahuella tauladella,7152.0,70.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Prioritise underserved neighbourhoods
+arrancapins,23611.0,70.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Prioritise underserved neighbourhoods
+russafa,25514.0,67.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Prioritise underserved neighbourhoods
+pinedo,2724.0,66.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Prioritise underserved neighbourhoods
+natzaret,6672.0,65.1,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Prioritise underserved neighbourhoods
+la raiosa,16229.0,64.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Prioritise underserved neighbourhoods
+el perellonet,1596.0,75.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Balanced impact
+rafalell vistabella,7152.0,66.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Balanced impact
+el palmar,759.0,66.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Balanced impact
+el saler,2030.0,65.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Balanced impact
+arrancapins,23611.0,64.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Balanced impact
+benicalap,44570.0,63.8,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Balanced impact
+russafa,25514.0,63.2,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Balanced impact
+mahuella tauladella,7152.0,61.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,sports facilities,Balanced impact
+la raiosa,16229.0,58.2,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Balanced impact
+patraix,24636.0,57.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,sports facilities,Balanced impact
+benicalap,44570.0,78.1,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reach the largest population
+rafalell vistabella,7152.0,63.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Reach the largest population
+malilla,26253.0,62.4,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reach the largest population
+torrefiel,27938.0,58.8,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reach the largest population
+sant pau,19098.0,55.9,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reach the largest population
+mahuella tauladella,7152.0,55.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Reach the largest population
+nou moles,27844.0,54.9,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reach the largest population
+aiora,25130.0,54.6,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reach the largest population
+benimaclet,23390.0,53.0,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reach the largest population
+russafa,25514.0,52.9,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reach the largest population
+rafalell vistabella,7152.0,85.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Reduce average distance
+mahuella tauladella,7152.0,67.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Reduce average distance
+el saler,2030.0,64.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Reduce average distance
+el palmar,759.0,59.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Reduce average distance
+benicalap,44570.0,54.6,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reduce average distance
+el perellonet,1596.0,54.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Reduce average distance
+malilla,26253.0,50.7,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reduce average distance
+sant pau,19098.0,49.9,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Reduce average distance
+la punta,4177.0,49.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Reduce average distance
+les cases de barcena,395.0,49.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Reduce average distance
+rafalell vistabella,7152.0,87.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Prioritise underserved neighbourhoods
+mahuella tauladella,7152.0,77.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Prioritise underserved neighbourhoods
+el saler,2030.0,74.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Prioritise underserved neighbourhoods
+benicalap,44570.0,70.8,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Prioritise underserved neighbourhoods
+el perellonet,1596.0,68.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Prioritise underserved neighbourhoods
+malilla,26253.0,68.0,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Prioritise underserved neighbourhoods
+el palmar,759.0,66.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Prioritise underserved neighbourhoods
+la punta,4177.0,66.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Prioritise underserved neighbourhoods
+sant pau,19098.0,66.1,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Prioritise underserved neighbourhoods
+les cases de barcena,395.0,65.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Prioritise underserved neighbourhoods
+rafalell vistabella,7152.0,78.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Balanced impact
+benicalap,44570.0,71.0,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Balanced impact
+mahuella tauladella,7152.0,68.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Balanced impact
+el saler,2030.0,64.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Balanced impact
+malilla,26253.0,63.6,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Balanced impact
+sant pau,19098.0,60.3,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Balanced impact
+el perellonet,1596.0,58.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Balanced impact
+benimamet,14309.0,58.2,access is weaker than other neighbourhoods,Compare this area with adjacent underserved neighbourhoods.,social services,Balanced impact
+el palmar,759.0,57.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,social services,Balanced impact
+torrefiel,27938.0,57.7,access is weaker than other neighbourhoods,Prioritise a location that can serve nearby high-population areas.,social services,Balanced impact
+benicalap,44570.0,80.6,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,culture,Reach the largest population
+torrefiel,27938.0,66.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reach the largest population
+nou moles,27844.0,66.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reach the largest population
+malilla,26253.0,65.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reach the largest population
+russafa,25514.0,63.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reach the largest population
+aiora,25130.0,61.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,culture,Reach the largest population
+patraix,24636.0,61.0,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,culture,Reach the largest population
+sant pau,19098.0,58.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reach the largest population
+el perellonet,1596.0,57.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reach the largest population
+benimaclet,23390.0,57.1,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,culture,Reach the largest population
+el perellonet,1596.0,83.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reduce average distance
+el palmar,759.0,71.6,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reduce average distance
+el saler,2030.0,68.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reduce average distance
+rafalell vistabella,7152.0,64.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reduce average distance
+benicalap,44570.0,57.7,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,culture,Reduce average distance
+mahuella tauladella,7152.0,57.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reduce average distance
+malilla,26253.0,56.4,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reduce average distance
+torrefiel,27938.0,54.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reduce average distance
+nou moles,27844.0,54.1,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reduce average distance
+pinedo,2724.0,53.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Reduce average distance
+el perellonet,1596.0,85.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Prioritise underserved neighbourhoods
+el palmar,759.0,78.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Prioritise underserved neighbourhoods
+el saler,2030.0,76.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Prioritise underserved neighbourhoods
+rafalell vistabella,7152.0,75.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Prioritise underserved neighbourhoods
+benicalap,44570.0,74.6,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,culture,Prioritise underserved neighbourhoods
+malilla,26253.0,72.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Prioritise underserved neighbourhoods
+torrefiel,27938.0,71.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Prioritise underserved neighbourhoods
+nou moles,27844.0,71.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Prioritise underserved neighbourhoods
+mahuella tauladella,7152.0,70.8,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Prioritise underserved neighbourhoods
+russafa,25514.0,70.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Prioritise underserved neighbourhoods
+el perellonet,1596.0,75.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Balanced impact
+benicalap,44570.0,74.2,low coverage relative to population,Prioritise a location that can serve nearby high-population areas.,culture,Balanced impact
+el palmar,759.0,68.3,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Balanced impact
+malilla,26253.0,68.0,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Balanced impact
+torrefiel,27938.0,67.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Balanced impact
+nou moles,27844.0,67.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Balanced impact
+el saler,2030.0,66.9,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Balanced impact
+rafalell vistabella,7152.0,66.2,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Balanced impact
+russafa,25514.0,65.7,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Balanced impact
+sant pau,19098.0,63.5,few nearby facilities for residents,Test a candidate site close to this neighbourhood.,culture,Balanced impact

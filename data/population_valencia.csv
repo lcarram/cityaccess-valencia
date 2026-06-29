@@ -1,0 +1,89 @@
+﻿district_code,neighbourhood_code,district_neighbourhood_code,neighbourhood_name,population_year,population,source_file
+1,1,0101,la Seu,2025,3275,Distrito_1_Barrio_1.xlsx
+1,2,0102,la Xerea,2025,4277,Distrito_1_Barrio_2.xlsx
+1,3,0103,el Carme,2025,7252,Distrito_1_Barrio_3.xlsx
+1,4,0104,el Pilar,2025,5472,Distrito_1_Barrio_4.xlsx
+1,5,0105,el Mercat,2025,4101,Distrito_1_Barrio_5.xlsx
+1,6,0106,Sant Francesc,2025,6133,Distrito_1_Barrio_6.xlsx
+2,1,0201,Russafa,2025,25514,Distrito_2_Barrio_1.xlsx
+2,2,0202,el Pla del Remei,2025,7344,Distrito_2_Barrio_2.xlsx
+2,3,0203,la Gran Via,2025,12378,Distrito_2_Barrio_3.xlsx
+3,1,0301,el Botànic,2025,7033,Distrito_3_Barrio_1.xlsx
+3,2,0302,la Roqueta,2025,5109,Distrito_3_Barrio_2.xlsx
+3,3,0303,la Petxina,2025,15622,Distrito_3_Barrio_3.xlsx
+3,4,0304,Arrancapins,2025,23611,Distrito_3_Barrio_4.xlsx
+4,1,0401,Campanar,2025,11820,Distrito_4_Barrio_1.xlsx
+4,2,0402,les Tendetes,2025,5435,Distrito_4_Barrio_2.xlsx
+4,3,0403,el Calvari,2025,5360,Distrito_4_Barrio_3.xlsx
+4,4,0404,Sant Pau,2025,19098,Distrito_4_Barrio_4.xlsx
+5,1,0501,Marxalenes,2025,11176,Distrito_5_Barrio_1.xlsx
+5,2,0502,Morvedre,2025,10454,Distrito_5_Barrio_2.xlsx
+5,3,0503,Trinitat,2025,8105,Distrito_5_Barrio_3.xlsx
+5,4,0504,Tormos,2025,8858,Distrito_5_Barrio_4.xlsx
+5,5,0505,Sant Antoni,2025,10198,Distrito_5_Barrio_5.xlsx
+6,1,0601,Exposició,2025,7020,Distrito_6_Barrio_1.xlsx
+6,2,0602,Mestalla,2025,14856,Distrito_6_Barrio_2.xlsx
+6,3,0603,Jaume Roig,2025,6552,Distrito_6_Barrio_3.xlsx
+6,4,0604,Ciutat Universitària,2025,2778,Distrito_6_Barrio_4.xlsx
+7,1,0701,Nou Moles,2025,27844,Distrito_7_Barrio_1.xlsx
+7,2,0702,Soternes,2025,5183,Distrito_7_Barrio_2.xlsx
+7,3,0703,Tres Forques,2025,10386,Distrito_7_Barrio_3.xlsx
+7,4,0704,la Fontsanta,2025,3954,Distrito_7_Barrio_4.xlsx
+7,5,0705,la Llum,2025,4952,Distrito_7_Barrio_5.xlsx
+8,1,0801,Patraix,2025,24636,Distrito_8_Barrio_1.xlsx
+8,2,0802,Sant Isidre,2025,10604,Distrito_8_Barrio_2.xlsx
+8,3,0803,Vara de Quart,2025,10203,Distrito_8_Barrio_3.xlsx
+8,4,0804,el Safranar,2025,10903,Distrito_8_Barrio_4.xlsx
+8,5,0805,Favara,2025,3741,Distrito_8_Barrio_5.xlsx
+9,1,0901,la Raiosa,2025,16229,Distrito_9_Barrio_1.xlsx
+9,2,0902,l'Hort de Senabre,2025,17300,Distrito_9_Barrio_2.xlsx
+9,3,0903,la Creu Coberta,2025,6145,Distrito_9_Barrio_3.xlsx
+9,4,0904,Sant Marcel·lí,2025,10674,Distrito_9_Barrio_4.xlsx
+9,5,0905,Camí Real,2025,3957,Distrito_9_Barrio_5.xlsx
+10,1,1001,Mont-Olivet,2025,19963,Distrito_10_Barrio_1.xlsx
+10,2,1002,en Corts,2025,12337,Distrito_10_Barrio_2.xlsx
+10,3,1003,Malilla,2025,26253,Distrito_10_Barrio_3.xlsx
+10,4,1004,la Fonteta de Sant Lluís,2025,3308,Distrito_10_Barrio_4.xlsx
+10,5,1005,na Rovella,2025,7788,Distrito_10_Barrio_5.xlsx
+10,6,1006,la Punta,2025,4177,Distrito_10_Barrio_6.xlsx
+10,7,1007,Ciutat de les Arts i de les Ciències,2025,9507,Distrito_10_Barrio_7.xlsx
+11,0,1100,Port,2025,,Distrito_11_Barrio_0.xlsx
+11,1,1101,el Grau,2025,10096,Distrito_11_Barrio_1.xlsx
+11,2,1102,el Cabanyal-el Canyamelar,2025,19685,Distrito_11_Barrio_2.xlsx
+11,3,1103,la Malva-rosa,2025,13364,Distrito_11_Barrio_3.xlsx
+11,4,1104,Beteró,2025,7898,Distrito_11_Barrio_4.xlsx
+11,5,1105,Natzaret,2025,6672,Distrito_11_Barrio_5.xlsx
+12,1,1201,Aiora,2025,25130,Distrito_12_Barrio_1.xlsx
+12,2,1202,Albors,2025,9069,Distrito_12_Barrio_2.xlsx
+12,3,1203,la Creu del Grau,2025,15329,Distrito_12_Barrio_3.xlsx
+12,4,1204,Camí Fondo,2025,4564,Distrito_12_Barrio_4.xlsx
+12,5,1205,Penya-roja,2025,13847,Distrito_12_Barrio_5.xlsx
+13,1,1301,l'Illa Perduda,2025,8491,Distrito_13_Barrio_1.xlsx
+13,2,1302,Ciutat Jardí,2025,12059,Distrito_13_Barrio_2.xlsx
+13,3,1303,l'Amistat,2025,7197,Distrito_13_Barrio_3.xlsx
+13,4,1304,la Bega Baixa,2025,5564,Distrito_13_Barrio_4.xlsx
+13,5,1305,la Carrasca,2025,3321,Distrito_13_Barrio_5.xlsx
+14,1,1401,Benimaclet,2025,23390,Distrito_14_Barrio_1.xlsx
+14,2,1402,Camí de Vera,2025,5326,Distrito_14_Barrio_2.xlsx
+15,1,1501,Orriols,2025,18677,Distrito_15_Barrio_1.xlsx
+15,2,1502,Torrefiel,2025,27938,Distrito_15_Barrio_2.xlsx
+15,3,1503,Sant Llorenç,2025,11464,Distrito_15_Barrio_3.xlsx
+16,1,1601,Benicalap,2025,44570,Distrito_16_Barrio_1.xlsx
+16,2,1602,Ciutat Fallera,2025,6397,Distrito_16_Barrio_2.xlsx
+17,1,1701,Benifaraig,2025,1016,Distrito_17_Barrio_1.xlsx
+17,2,1702,Poble Nou,2025,1006,Distrito_17_Barrio_2.xlsx
+17,3,1703,Carpesa,2025,1239,Distrito_17_Barrio_3.xlsx
+17,4,1704,les Cases de Bàrcena,2025,395,Distrito_17_Barrio_4.xlsx
+17,5,1705,Mauella,2025,60,Distrito_17_Barrio_5.xlsx
+17,6,1706,Massarrojos,2025,2705,Distrito_17_Barrio_6.xlsx
+17,7,1707,Borbotó,2025,759,Distrito_17_Barrio_7.xlsx
+18,1,1801,Benimàmet,2025,14309,Distrito_18_Barrio_1.xlsx
+18,2,1802,Beniferri,2025,1280,Distrito_18_Barrio_2.xlsx
+19,1,1901,el Forn d'Alcedo,2025,1374,Distrito_19_Barrio_1.xlsx
+19,2,1902,Castellar-l'Oliveral,2025,7107,Distrito_19_Barrio_2.xlsx
+19,3,1903,Pinedo,2025,2724,Distrito_19_Barrio_3.xlsx
+19,4,1904,el Saler,2025,2030,Distrito_19_Barrio_4.xlsx
+19,5,1905,el Palmar,2025,759,Distrito_19_Barrio_5.xlsx
+19,6,1906,el Perellonet,2025,1596,Distrito_19_Barrio_6.xlsx
+19,7,1907,la Torre,2025,4952,Distrito_19_Barrio_7.xlsx
+19,8,1908,Faitanar,2025,2190,Distrito_19_Barrio_8.xlsx
